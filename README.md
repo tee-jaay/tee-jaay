@@ -30,6 +30,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tee-jaay&show_icons=true&locale=en" alt="tee-jaay" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jtaam&" alt="tee-jaay" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tee-jaay&" alt="tee-jaay" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tee-jaay&label=Profile%20views&color=0e75b6&style=flat" alt="tee-jaay" /> </p>
