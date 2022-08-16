@@ -15,6 +15,8 @@
 <a href="https://www.leetcode.com/user5852t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user5852t" height="30" width="40" /></a>
 </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jtaam" alt="jtaam" /></a> </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jtaam&show_icons=true&locale=en&layout=compact" alt="jtaam" /></p>
 
 <p><br/></p>
