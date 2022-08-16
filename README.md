@@ -22,14 +22,14 @@
 </p>
 
 <h3 align="left">Github history:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jtaam" alt="jtaam" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tee-jaay" alt="jtaam" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jtaam&show_icons=true&locale=en&layout=compact" alt="jtaam" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tee-jaay&show_icons=true&locale=en&layout=compact" alt="jtaam" /></p>
 
 <p><br/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jtaam&show_icons=true&locale=en" alt="jtaam" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tee-jaay&show_icons=true&locale=en" alt="jtaam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jtaam&" alt="jtaam" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jtaam&label=Profile%20views&color=0e75b6&style=flat" alt="jtaam" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tee-jaay&label=Profile%20views&color=0e75b6&style=flat" alt="jtaam" /> </p>
