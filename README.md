@@ -10,10 +10,6 @@
 
 - 🤝 I’m looking for help with [Tect](https://tect.teejaay.me)
 
-- 💬 Ask me about **React.js & Linux**
-
-- 📄 Know about my experiences [https://teejaay.me](https://teejaay.me)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/jtaam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tee-jaay" height="30" width="40" /></a>
