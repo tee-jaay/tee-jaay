@@ -20,16 +20,3 @@
 <a href="https://linkedin.com/in/teejaay-me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="teejaay-me" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/user5852t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user5852t" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Github history:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tee-jaay" alt="tee-jaay" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tee-jaay&show_icons=true&locale=en&layout=compact" alt="tee-jaay" /></p>
-
-<p><br/></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tee-jaay&show_icons=true&locale=en" alt="tee-jaay" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tee-jaay&" alt="tee-jaay" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tee-jaay&label=Profile%20views&color=0e75b6&style=flat" alt="tee-jaay" /> </p>
