@@ -8,8 +8,4 @@
 </p>
 
 - 🌱 I am developing apps in **Flutter**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/teejaay-me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="teejaay-me" height="30" width="40" /></a>
 </p>
